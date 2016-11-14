@@ -1,3 +1,4 @@
+#นางสาวนฏกร  เจริญธรรม 57030176
 #ใบงานที่ 11
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (3)
 ## กล่าวนำ
@@ -73,3 +74,8 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+
+
+<img src= "https://github.com/NATAKORNCHA/LAB-11/blob/master/imgs/LAB11.4.png?raw=true">
+
+
